@@ -1,0 +1,239 @@
+{
+    "CarWale":[
+   
+   {"carId":1,"Name":"Tata","Brand":"Tata","CarName":"Tata Harrier","Price":19.04 ,"BrandNames":"Tata","Dealer":"Lakshmi Tata Authorized Dealer","DealerCont":"Get in touch with Authorized Tata Dealership on call for best buying options like:","Phone":8588894279,"Price_Content":"Tata Harrier price for the base model starts at Rs. 19.04 Lakh and the top model price goes upto Rs. 32.16 Lakh (on-road Chennai). Harrier price for 25 variants is listed below.",
+   "singleImg":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80&q=80",
+   
+   "allMileage":[
+   {"petrolManual":"Diesel","cc":"1956cc","AraiMileage":"16.8 kmpl","Reported":"Manual"},
+   {"petrolManual":"Diesel","cc":"1956cc","AraiMileage":"14.6 kmpl","Reported":"Automatic (TC)"}
+   ],
+   "Mileage":"20.01 to 28.51 kmpl","Engine":"998 to 1197 cc","FuelType":"Petrol","fuelModel":"CNG","automaticGear":"Automatic",
+   "manualGear":"Manual","seatingCapacity":5,
+   
+   "variants":[
+   {"variantId":1,"variantName":"Smart","Price":19.04,"Mileage":"14.6 to 16.8 kmpl","Engine":"1956 cc","FuelType":"Petrol","fuelModel":"CNG","manualGear":"Manual",
+   "seatingCapacity":5},{"variantId":2,"variantName":"Smart (0)","Price":19.63,"Mileage":"20.01 to 28.51 kmpl","Engine":"1956 cc","FuelType":"Petrol","fuelModel":"CNG","manualGear":"Manual",
+   "seatingCapacity":5},{"variantId":3,"variantName":"Pure PlusAT","Price":24.43,"Mileage":"20.01 to 28.51 kmpl","Engine":"1956 cc","FuelType":"Diesel","automaticGear":"Automatic","manualGear":"Manual",
+   "seatingCapacity":5},{"variantId":4,"variantName":"Pure Plus S AT","Price":24.43,"Mileage":"20.01 to 28.51 kmpl","Engine":"1956 cc","FuelType":"Diesel","automaticGear":"Automatic","manualGear":"Manual",
+   "seatingCapacity":5}
+   ],
+   
+   "Cities":[{"City":"Maadhavaram","Price":19.04},{"City":"Velacherry","Price":19.04},{"City":"Redhills","Price":19.04},{"City":"Ambattur","Price":19.04}],
+   
+   "CarImage":[
+   {"Img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80&q=80"},
+   {"Img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80"},
+   {"Img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-side-view.jpeg?isig=0&q=80&q=80"},
+   {"Img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-rear-three-quarter-12.jpeg?isig=0&q=80&q=80"}
+   ]},
+    
+   
+   
+   
+   
+   {"carId":2,"Name":"Tata","Brand":"Tata","CarName":"Tata Nexon","Price":9.46 ,"BrandNames":"Tata","Dealer":"Lakshmi Tata Authorized Dealer","DealerCont":"Get in touch with Authorized Tata Dealership on call for best buying options like:","Phone":8588894279,"singleImg":"https://imgd.aeplcdn.com/310x174/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80",
+   "Price_Content":"Tata Nexon price for the base model starts at Rs. 9.46 Lakh and the top model price goes upto Rs. 18.85 Lakh (on-road Chennai). Nexon price for 5 variants is listed below.",
+   "Mileage":"17.01 to 24.08 kmpl","Engine":"1199 to 1497 cc","FuelType":"Petrol","fuelModel":"Diesel","automaticGear":"Automatic","manualGear":"Manual",
+   "seatingCapacity":5,"Safety":"5 Star (Global NCAP)",
+   "img1":"https://imgd.aeplcdn.com/199x112/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80",
+   "img2":"https://imgd.aeplcdn.com/199x112/n/cw/ec/141867/nexon-facelift-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80",
+   "img3":"https://imgd.aeplcdn.com/199x112/n/cw/ec/141867/nexon-facelift-exterior-right-side-view.jpeg?isig=0&q=80",
+   "img4":"https://imgd.aeplcdn.com/468x263/n/cw/ec/141867/nexon-facelift-interior-steering-wheel.jpeg?isig=0&q=80",
+   "img5":"https://imgd.aeplcdn.com/199x112/n/cw/ec/141867/nexon-facelift-interior-dashboard.jpeg?isig=0&q=80",
+   "img6":"https://imgd.aeplcdn.com/199x112/n/cw/ec/141867/nexon-facelift-interior-instrument-cluster.jpeg?isig=0&amp;q=80&quot",
+   
+   "Cities":
+   [{"City":"Maadhavaram","Price":9.45},{"City":"Velacherry","Price":9.45},{"City":"Redhills","Price":9.45},{"City":"Ambattur","Price":9.45}
+   ],
+   "allMileage":[
+   {"petrolManual":"Petrol-Manual","cc":"1199cc","AraiMileage":"17.44 kmpl","Reported":"17.25kmpl"},
+   {"petrolManual":"Petrol-Manual","cc":"1199cc","AraiMileage":"17.44 kmpl","Reported":"17.25 kmpl"},
+   {"petrolManual":"Diesel-Manual","cc":"1497c","AraiMileage":"23.23 kmpl","Reported":"-"},
+   {"petrolManual":"Petrol-Automatic (AMT)","cc":"1199cc","AraiMileage":"17.18 kmpl","Reported":"-"},
+   {"petrolManual":"Petrol-Automatic (DCT)","cc":"1199cc","AraiMileage":"17.01 kmpl","Reported":"17.4 kmpl"},
+   {"petrolManual":"Deisel-Automatic (AMT)","cc":"1497cc","AraiMileage":"24.08 kmpl","Reported":"-"}
+   ],
+   
+   "variants":[
+   {"variantId":1,"variantName":"Smart","Price":19.04,"Mileage":"14.6 to 16.8 kmpl","Engine":"1956 cc","FuelType":"Petrol","fuelModel":"CNG","manualGear":"Manual",
+   "seatingCapacity":5},{"variantId":2,"variantName":"Smart (0)","Price":19.63,"Mileage":"20.01 to 28.51 kmpl","Engine":"1956 cc","FuelType":"Petrol","fuelModel":"CNG","manualGear":"Manual",
+   "seatingCapacity":5},{"variantId":3,"variantName":"Pure PlusAT","Price":24.43,"Mileage":"20.01 to 28.51 kmpl","Engine":"1956 cc","FuelType":"Diesel","automaticGear":"Automatic","manualGear":"Manual",
+   "seatingCapacity":5},{"variantId":4,"variantName":"Pure Plus S AT","Price":24.43,"Mileage":"20.01 to 28.51 kmpl","Engine":"1956 cc","FuelType":"Diesel","automaticGear":"Automatic","manualGear":"Manual",
+   "seatingCapacity":5}
+   ],
+   
+   "CarImage":[
+   {"Img":"https://imgd.aeplcdn.com/310x174/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80"},
+   {"Img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80"},
+   {"Img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-side-view.jpeg?isig=0&q=80&q=80"},
+   {"Img":"https://imgd.aeplcdn.com/664x374/n/cw/ec/139139/harrier-facelift-exterior-right-rear-three-quarter-12.jpeg?isig=0&q=80&q=80"}
+   ]}
+   
+   ] ,
+   
+   
+ 
+"Brand":[
+   
+ {"BrandId":1,"Models":"Maruti Car Models","Cars":"Maruti Cars","Name":"Maruti Suzuki",
+   "BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/10/brands/logos/maruti-suzuki1647009823420.jpg?v=1647009823707&q=80",
+   "comp":false,"any":false,
+   "Content":"Maruti car price starts at Rs 4.66 Lakh for the cheapest model which is Alto K10 and the price of most expensive model,                    which is Invicto starts at Rs 30.22 Lakh. Maruti offers 17 car models in India, including 2 cars in SUV category, 1 car in Sedan  category, 7 cars in Hatchback category, 2 cars in Compact SUV category, 1 car in Compact Sedan category, 3 cars in MUV category, 1 car in Minivan category. Maruti has 3 upcoming cars in India, New-gen Swift, eVX and Wagon R.",
+   "Collection":[
+   {"No":1,"CarName":"Maruti Fronx","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80",
+   "Price":5,"Ratings":"4.5","Rate":"244 Ratings","speed":"20-28 kmpl","Bhp":"76-99 bhp"},
+   {"No":2,"CarName":"Maruti Fronx","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/130591/fronx-exterior-right-front-three-quarter-109.jpeg?isig=0&q=80",
+   "Price":5,"Ratings":"4.5","Rate":"244 Ratings","speed":"20-28 kmpl","Bhp":"76-99 bhp"}
+   ]
+   },
+    
+{"BrandId":2,"Name":"Tata","Models":"Tata Car Models","Cars":"Tata Cars",
+"BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/16/brands/logos/tata.jpg?v=1629973276336&q=80","comp":false,"any":false,
+"Content":"Tata car price starts at Rs 5.60 Lakh for the cheapest model which is Tiago and the price of most expensive model, which is Safari starts at Rs 16.19 Lakh. Tata offers 11 car models in India, including 2 cars in SUV category, 4 cars in Hatchback category, 3 cars in Compact SUV category, 2 cars in Compact Sedan category. Tata has 9 upcoming cars in India, Punch EV, Curvv EV Concept, Harrier EV, Safari EV, Curvv, Altroz, Altroz EV, Avinya and Sierra EV.",
+"Collection":[
+        {"No":1,"CarName":"Tata Nexon","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/141867/nexon-exterior-right-front-three-quarter-71.jpeg?isig=0&q=80",
+        "Price":8.10,"Ratings":"4.7","Rate":"178 Ratings","speed":"17-24 kmpl","Bhp":"113-118 bhp"},
+        {"No":2,"CarName":"Tata Harrier","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/139139/harrier-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "Price":15.49,"Ratings":"4.5","Rate":"48 Ratings","speed":"14-16 kmpl","Bhp":"168 bhp"},
+        {"No":3,"CarName":"Tata Altroz","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/32597/altroz-exterior-right-front-three-quarter-80.jpeg?isig=0&q=80",
+        "Price":6.60,"Ratings":"4.6","Rate":"1475 Ratings","speed":"18-26 kmpl","Bhp":"72-108 bhp"},
+        {"No":4,"CarName":"Tata Nexon EV","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/149123/nexon-ev-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":14.74,"Ratings":"4.5","Rate":"41 Ratings","speed":"20-28 kmpl","Bhp":"76-99 bhp"},
+        {"No":5,"CarName":"Tata Safari","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/138895/safari-facelift-exterior-right-front-three-quarter-39.jpeg?isig=0&q=80",
+        "Price":16.19,"Ratings":"4.8","Rate":"50 Ratings","speed":"14-16 kmpl","Bhp":"168 bhp"}
+        ]},
+    
+{"BrandId":3,"Name":"Hyundai","Models":"Hyundai Car Models","Cars":"Hyundai Cars",
+"BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/8/brands/logos/hyundai.jpg?v=1629973193722&q=80","comp":false,"any":false,
+"Content":"Hyundai offers 13 car models in India, including 5 cars in SUV category, 1 car in Sedan category, 3 cars in Hatchback category, 3 cars in Compact SUV category, 1 car in Compact Sedan category. Hyundai has 6 upcoming cars in India, Creta Facelift, Ioniq 6, Stargazer, New Santa Fe, Alcazar facelift and Palisade.",
+"Collection":[
+        {"No":1,"CarName":"Hyundai Exter","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144851/exter-exterior-right-front-three-quarter-29.jpeg?isig=0&q=80",
+        "Price":6.00,"Ratings":"4.6","Rate":"344 Ratings","speed":"19-27 kmpl","Bhp":"68-82 bhp"},
+        {"No":2,"CarName":"Hyundai i20","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/150603/i20-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+        "Price":6.99,"Ratings":"4.7","Rate":"71 Ratings","speed":"3 Star Safety","Bhp":"82-87 bhp"}
+        ,{"No":3,"CarName":"Hyundai Aura","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/139133/aura-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "Price":6.44,"Ratings":"4.6","Rate":"118 Ratings","speed":"2 Star Safety","Bhp":"68-82 bhp"},
+        {"No":4,"CarName":"Hyundai Tucson","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/106821/tucson-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+        "Price":29.02,"Ratings":"3.7","Rate":"46 Ratings","speed":"","Bhp":"154-184 bhp"},
+        {"No":5,"CarName":"Hyundai Ioniq 5","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/110289/ioniq-5-exterior-right-front-three-quarter-95.jpeg?isig=0&q=80",
+        "Price":45.95,"Ratings":"4.7","Rate":"30 Ratings","speed":"5 Star Safety","Bhp":""}
+        ]},
+    
+{"BrandId":4,"Name":"Mahindra","Models":"Mahindra Car Models","Cars":"Mahindra Cars",
+"BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/9/brands/logos/mahindra.jpg?v=1629973668273&q=80","comp":false,"any":false,
+"Content":"Mahindra car price starts at Rs 7.99 Lakh for the cheapest model which is XUV300 and the price of most expensive model, which is XUV400 starts at Rs 15.99 Lakh. Mahindra offers 10 car models in India, including 4 cars in SUV category, 5 cars in Compact SUV category, 1 car in MUV category. Mahindra has 10 upcoming cars in India, Bolero Neo Plus, XUV300 facelift, Five-door Thar, XUV.e8, XUV.e9, BE.05, Thar.e, Global Pik Up, BE.07 and BE.09.",
+    "Collection":[
+        {"No":1,"CarName":"Mahindra Scorpio N","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80",
+        "Price":13.26,"Ratings":"4.6","Rate":"472 Ratings","speed":"5 Star Safety","Bhp":"130-200 bhp"},
+        {"No":2,"CarName":"Mahindra Thar","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/40087/thar-exterior-right-front-three-quarter-35.jpeg?isig=0&q=80",
+        "Price":10.98,"Ratings":"4.7","Rate":"669 Ratings","speed":"4 star Safety","Bhp":"117-150 bhp"},
+        {"No":3,"CarName":"Mahindra Scorpio","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/128413/scorpio-exterior-right-front-three-quarter-47.jpeg?isig=0&q=80",
+        "Price":13.25,"Ratings":"4.8","Rate":"338 Ratings","speed":"15 kmpl","Bhp":"130 bhp"},
+        {"No":4,"CarName":"Mahindra XUV700","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/42355/xuv700-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":14.03,"Ratings":"4.6","Rate":"605 Ratings","speed":"5 star Safety","Bhp":"153-197 bhp"},
+        {"No":5,"CarName":"Mahindra XUV400","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/45278/xuv400-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "Price":15.99,"Ratings":"3.9","Rate":"42 Ratings","speed":"5 star Safety","Bhp":""}
+        ]},
+    
+{"BrandId":5,"Name":"Toyota","Models":"Toyota Car Models","Cars":"Toyota Cars",
+"BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/17/brands/logos/toyota.jpg?v=1630055705330&q=80","comp":false,"any":false,
+"Content":"Toyota car price starts at Rs 6.81 Lakh for the cheapest model which is Glanza and the price of most expensive model, which is Land Cruiser starts at Rs 2.10 Crore. Toyota offers 11 car models in India, including 4 cars in SUV category, 1 car in Sedan category, 1 car in Hatchback category, 4 cars in MUV category, 1 car in Truck category. Toyota has 4 upcoming cars in India, Urban Cruiser Taisor, Innova Crysta, BZ4X and Belta.",
+"Collection":[
+        {"No":1,"CarName":"Toyota  Urban Cruiser Hyryder","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/124027/urban-cruiser-hyryder-exterior-right-front-three-quarter-72.jpeg?isig=0&q=80",
+        "Price":10.86,"Ratings":"4.4","Rate":"207 Ratings","speed":"19-27 kmpl","Bhp":"87-102 bhp"},
+        {"No":2,"CarName":"Toyota Innova Hycross","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/115025/innova-hycross-exterior-right-front-three-quarter-73.jpeg?isig=0&q=80",
+        "Price":19.67,"Ratings":"4.5","Rate":"108 Ratings","speed":"16-23 kmpl","Bhp":"173-184 bhp"},
+        {"No":3,"CarName":"Toyota Innova Crysta","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/140809/innova-crysta-exterior-right-front-three-quarter-2.png?isig=0&q=80",
+        "Price":19.99,"Ratings":"4.8","Rate":"100 Ratings","speed":"16-23 kmpl","Bhp":"148 bhp"},
+        {"No":4,"CarName":"Toyota Fortuner ","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/44709/fortuner-exterior-right-front-three-quarter-20.jpeg?isig=0&q=80",
+        "Price":33.43,"Ratings":"4.5","Rate":"366 Ratings","speed":"10-14 kmpl","Bhp":"164-201 bhp"},
+        {"No":5,"CarName":"Toyota Fortuner Legender","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/137767/fortuner-legender-exterior-right-front-three-quarter-3.png?isig=0&q=80",
+        "Price":43.66,"Ratings":"4.8","Rate":"79 Ratings","speed":"14 kmpl","Bhp":"201bhp"}
+        ]},
+
+{"BrandId":6,"Name":"BMW","Models":"BMW Car Models","Cars":"BMW Cars",
+"BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/1/brands/logos/bmw.jpg?v=1629973130013&q=80",
+"comp":false,"any":false,"Content":"BMW car price starts at Rs 43.50 Lakh for the cheapest model which is 2 Series Gran Coupe and the price of most expensive model, which is XM starts at Rs 2.60 Crore.BMW offers 22 car models in India,including 10 cars in SUV category, 7 cars in Sedan category, 1 car in Convertible category, 4 cars in Coupe category. BMW has 1 upcoming car in India, X8.",
+    "Collection":[
+        {"No":1,"CarName":"BMW Z4","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/149075/z4-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+        "Price":89.30,"Ratings":"4.7","Rate":"19 Ratings","speed":"12 kmpl","Bhp":"335 bhp"},
+        {"No":2,"CarName":"BMW X1","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/140591/x1-exterior-right-front-three-quarter-7.jpeg?isig=0&q=80",
+        "Price":45.90,"Ratings":"4.2","Rate":"34 Ratings","speed":"16-20 kmpl","Bhp":"134-148 bhp"},
+        {"No":3,"CarName":"BMW 2 Series Gran Coupe","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/48034/2-series-gran-coupe-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":43.50,"Ratings":"4.5","Rate":"39 Ratings","speed":"14-18 kmpl","Bhp":"177-189 bhp"},
+        {"No":4,"CarName":"BMW 3 Series Gran Limousine","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/139177/3-series-gran-limousine-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":60.60,"Ratings":"4.8","Rate":"22 Ratings","speed":"15-19 kmpl","Bhp":"188-255 bhp"},
+        {"No":5,"CarName":"BMW M2","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/150125/m2-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+        "Price":98.00,"Ratings":"4.8","Rate":"10 Ratings","speed":"10 kmpl","Bhp":"453 bhp"}
+        ]},
+    
+    {"BrandId":7,"Name":"Kia","Models":"Kia Car Models","Cars":"Kia Cars","BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/70/brands/logos/kia.jpg?v=1630057189593&q=80","comp":false,"any":false,
+    "Collection":[
+        {"No":1,"CarName":"Kia Seltors","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/135051/seltos-exterior-right-front-three-quarter-31.jpeg?isig=0&q=80",
+        "Price":10.90,"Ratings":"4.5","Rate":"109 Ratings","speed":"17-20 kmpl","Bhp":"113-158 bhp"},
+        {"No":2,"CarName":"Kia Sonet","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144185/sonet-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":7.79,"Ratings":"4.5","Rate":"100 Ratings","speed":"","Bhp":"82-118 bhp"},
+        {"No":3,"CarName":"Kia Carens","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144163/carens-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "Price":10.45,"Ratings":"4.5","Rate":"78 Ratings","speed":"","Bhp":"113-158 bhp"},
+        {"No":4,"CarName":"Kia EV6","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/114971/ev6-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+        "Price":60.95,"Ratings":"4.5","Rate":"1 Ratings"}
+         ]},
+    
+    {"BrandId":8,"Name":"Mercedes Benz","Models":"Mercedes Benz Car Models","Cars":"Mercedes Benz Cars","BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/11/brands/logos/mercedes-benz.jpg?v=1629973270530&q=80","comp":false,"any":false,
+    "Collection":[
+        {"No":1,"CarName":"Mercedes-Benz A-Class Limousine","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/149525/a-class-limousine-exterior-right-front-three-quarter-5.jpeg?isig=0&q=80",
+        "Price":45.80,"Ratings":"4.6","Rate":"21 Ratings","speed":"17 kmpl","Bhp":"161 bhp"},
+        {"No":2,"CarName":"Mercedes-Benz C-Class","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/116201/c-class-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":60.00,"Ratings":"4.3","Rate":"26 Ratings","speed":"","Bhp":"197-261 bhp"},
+        {"No":3,"CarName":"Mercedes-Benz GLA","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/44784/gla-exterior-right-front-three-quarter.jpeg?q=80",
+        "Price":48.50,"Ratings":"4.5","Rate":"29 Ratings","speed":"17-20 kmpl","Bhp":"161-188 bhp"},
+        {"No":4,"CarName":"Mercedes-Benz GLE","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/163317/gle-facelift-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+        "Price":96.40,"Ratings":"4.3","Rate":"3 Ratings","speed":"","Bhp":"265-375 bhp"},
+        {"No":5,"CarName":"Mercedes-Benz C-Class","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/150705/glc-exterior-right-front-three-quarter-94.jpeg?isig=0&q=80",
+        "Price":73.50,"Ratings":"4.9","Rate":"7 Ratings","speed":"14-19 kmpl","Bhp":"194-255 bhp"}        
+
+        ]},
+    
+    {"BrandId":9,"Name":"Land Rover","Models":"Land Rover Car Models","Cars":"Land Rover Cars","BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/23/brands/logos/land-rover1647236056893.jpg?v=1647236057234&q=80 ","comp":false,"any":false,
+    "Collection":[
+        {"No":1,"CarName":"Land Rover Defender","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/55215/defender-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":93.55,"Ratings":"4.7","Rate":"60 Ratings","speed":"6-40 kmpl","Bhp":"296-518 bhp"},
+        {"No":2,"CarName":"Land Rover Range Rover Velar","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/153319/range-rover-velar-exterior-right-front-three-quarter-4.jpeg?isig=0&q=80",
+        "Price":94.30,"Ratings":"4.9","Rate":"22 Ratings","speed":"13-15 kmpl","Bhp":"201-247 bhp"},
+        {"No":3,"CarName":"Land Rover Range Rover Evoque","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/37721/range-rover-evoque-exterior-right-front-three-quarter.jpeg?isig=0&q=80",
+        "Price":73.07,"Ratings":"4.6","Rate":"67 Ratings","speed":"10-14 kmpl","Bhp":"177-247 bhp"},
+        {"No":4,"CarName":"Land Rover Discovery Sport","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/127321/discovery-sport-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80",
+        "Price":72.36,"Ratings":"3.9","Rate":"9 Ratings","speed":"10-13 kmpl","Bhp":"201-247 bhp"},
+        {"No":5,"CarName":"Land Rover Discovery","CarImg":"https://imgd.aeplcdn.com/227x128/cw/ec/24806/Land-Rover-Discovery-Exterior-104355.jpg?wm=0&q=80",
+        "Price":95.65,"Ratings":"4.7","Rate":"20 Ratings","speed":"8-13 kmpl","Bhp":"237-355 bhp"}
+        ]},
+    
+    {"BrandId":10,"Name":"Skoda","Models":"Skoda Car Models","Cars":"Skoda Cars","BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/15/brands/logos/skoda1681982956420.jpg?v=1681982956529&q=80","comp":false,"any":false,
+    "Collection":[
+        {"No":1,"CarName":"Skoda Slavia","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/144999/slavia-exterior-right-front-three-quarter-6.jpeg?isig=0&q=80",
+        "Price":10.89,"Ratings":"4.5","Rate":"73 Ratings","speed":"18-20 kmpl","Bhp":"114-148 bhp"},
+        {"No":2,"CarName":"Skoda Kushaq","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/145021/kushaq-exterior-right-front-three-quarter-12.jpeg?isig=0&q=80",
+        "Price":10.89,"Ratings":"4.4","Rate":"76 Ratings","speed":"17-19 kmpl","Bhp":"114-148 bhp"}
+        ]},
+    
+    {"BrandId":11,"Name":"Honda","Models":"Honda Car Models","Cars":"Honda Cars","BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/7/brands/logos/honda.jpg?v=1630056209549&q=80","comp":false,"any":false,
+    "Collection":[
+        {"No":1,"CarName":"Honda City","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/134287/city-exterior-right-front-three-quarter-76.jpeg?isig=0&q=80",
+        "Price":11.67,"Ratings":"4.4","Rate":"87 Ratings","speed":"17-18 kmpl","Bhp":"119 bhp"},
+        {"No":2,"CarName":"Honda Elevate","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/142515/elevate-exterior-right-front-three-quarter-21.jpeg?isig=0&q=80",
+        "Price":11.04,"Ratings":"4.5","Rate":"93 Ratings","speed":"15-16 kmpl","Bhp":"119 bhp"}
+        ]},
+    
+    {"BrandId":12,"Name":"MG","Models":"MG Car Models","Cars":"MG Cars","BrandImage":"https://imgd.aeplcdn.com/0X0/n/cw/ec/72/brands/logos/mg.jpg?v=1631163895654&q=80","comp":false,"any":false,
+    "Collection":[
+        {"No":1,"CarName":"MG Hector","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/130583/hector-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80",
+        "Price":15,"Ratings":"4.3","Rate":"80 Ratings","speed":"","Bhp":"141-170 bhp"},
+        {"No":2,"CarName":"MG Hector Plus","CarImg":"https://imgd.aeplcdn.com/227x128/n/cw/ec/139315/hector-plus-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80",
+        "Price":17.80,"Ratings":"4.4","Rate":"42 Ratings","speed":"16 kmpl","Bhp":"76-99 bhp"}
+        ]}]
+   
+   
+   
+   
+   }
